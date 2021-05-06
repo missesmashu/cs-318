@@ -1,0 +1,18 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#080808;
+    margin:0;
+}
+header{
+    background-color: #ebebeb;
+    padding:1rem;
+}
+main{
+    padding:1rem;
+}
+section{
+    padding:1rem 0;
+}
+main p, main h2, main h3{
+    max-width: 60rem;
+}
