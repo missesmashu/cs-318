@@ -1,0 +1,1 @@
+<pre><code class="language-<?=$snippet->language?>"><?=htmlentities($snippet->code)?></code></pre>
