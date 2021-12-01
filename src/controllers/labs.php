@@ -14,8 +14,10 @@ class labs{
 		]);
 	}
 
-	private function show($lab_id){
-		$lab = lab::fromid($lab_id);
+	private function show($slug){
+		$lab = lab::fromslug($slug);
+		if($lab === false) return false;
+
 		return f()->view->load('labs/show', [
 			'lab'=>$lab,
 		]);

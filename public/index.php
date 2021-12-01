@@ -29,5 +29,8 @@
 	<header>
 		<h2 id="labs">The Labs</h2>
 		<hr>
+		<?php foreach(\models\lab::query() as $lab){?>
+			<a href="<?=$lab->path()?>"><?=$lab->name?></a>
+		<?php }?>
 	</header>
 </section>

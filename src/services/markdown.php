@@ -7,6 +7,7 @@ class markdown extends \funky\services\markdown{
 		$this->InlineTypes['['][] = 'Snippet';
 		$this->InlineTypes['['][] = 'Document';
 		$this->InlineTypes['['][] = 'Checkbox';
+		$this->InlineTypes['['][] = 'Hint';
 	}
 
 	protected function inlineSnippet($excerpt)
@@ -49,6 +50,18 @@ class markdown extends \funky\services\markdown{
 			$ret = [
 				'extent'=>strlen($matches[0]),
 				'markup'=>f()->view->load('components/checkbox'),
+			];
+
+			return $ret;
+		}
+	}
+
+	protected function inlineHint($excerpt)
+	{
+		if(preg_match('/\[hint\]/', $excerpt['text'], $matches)){
+			$ret = [
+				'extent'=>strlen($matches[0]),
+				'markup'=>f()->view->load('components/hint'),
 			];
 
 			return $ret;
