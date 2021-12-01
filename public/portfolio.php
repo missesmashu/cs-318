@@ -1,4 +1,4 @@
-<section class="portfolio">
+<section class="portfolio portfolio-overview">
     <h2>The Portfolio</h2>
     <hr>
 	<p>For this project you will be designing and creating a website to communicate the essence of "you" to put on display for the world wide-web and most importantly future employers or clients.</p>

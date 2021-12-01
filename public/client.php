@@ -1,5 +1,5 @@
 
-<section class="client">
+<section class="client client-overview">
     <h2>The Client Project</h2>
     <hr>
     <h3>The Assignments</h3>
