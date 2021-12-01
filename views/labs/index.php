@@ -4,7 +4,7 @@
 		<hr>
 	</header>
 
-	<?php foreach($labs as $lab){?>
-		<a href="/labs/<?=$lab->id?>"><?=$lab->name?></a>
-	<?php }?>
+<?php foreach($labs as $lab){?>
+	<a href="<?=$lab->path()?>"><?=$lab->name?></a>
+<?php }?>
 </section>
