@@ -1,8 +1,10 @@
 <header>
 	<h2>Editing Document</h2>
-	<a class="button" href="/admin/documents">Back to documents</a>
-	<a class="button" href="<?=f()->url->get('admin/documents/edit/0')?>">New Document</a>
-	<input type="submit" value="Save" class="green" form="edit-form">
+	<div>
+		<a class="button" href="/admin/documents">Back to documents</a>
+		<a class="button" href="<?=f()->url->get('admin/documents/edit/0')?>">New Document</a>
+		<input type="submit" value="Save" class="green" form="edit-form">
+	</div>
 </header>
 
 <form method="post" action="<?=f()->url->current()?>" enctype="multipart/form-data" id="edit-form">

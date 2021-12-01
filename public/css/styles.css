@@ -97,6 +97,9 @@ hr{
     border:1px solid #5f357e;
     border-radius: 4px;
 }
+img{
+    max-width: 100%;
+}
 a{
     color:#4bc999;
 }
@@ -167,7 +170,7 @@ h2:before{
 .tools h2:before{
     content: url(/images/fe-icons/tools.svg);
 }
-.assignments div h4:before{
+.assignments div h4:before, .lab h3:before{
     display: inline-block;
     width:2rem;
     height: 2rem;
@@ -179,20 +182,29 @@ h2:before{
 .assignments div:nth-child(2) h4::before, #proposal:before{
     content: url(/images/fe-icons/proposal.svg);
 }
-.assignments div:nth-child(3) h4::before{
+.assignments div:nth-child(3) h4::before, #sitemap:before{
     content: url(/images/fe-icons/sitemap.svg);
 }
-.assignments div:nth-child(4) h4::before{
+.assignments div:nth-child(5) h4::before, #brand-guide:before{
     content: url(/images/fe-icons/brandguide.svg);
 }
-.assignments div:nth-child(5) h4::before{
+.assignments div:nth-child(6) h4::before, #wireframes:before{
     content: url(/images/fe-icons/wireframes.svg);
 }
-.assignments div:nth-child(6) h4::before{
+.assignments div:nth-child(7) h4::before, #mockups:before{
     content: url(/images/fe-icons/mockups.svg);
 }
-.assignments div:nth-child(7) h4::before{
+.assignments div:nth-child(8) h4::before, #code:before{
     content: url(/images/fe-icons/client-code.svg);
+}
+.goal:before{
+    content: url(/images/fe-icons/goal.svg);
+}
+.learn:before{
+    content: url(/images/fe-icons/learn.svg);
+}
+.practice:before{
+    content: url(/images/fe-icons/practice.svg);
 }
 .hint:before{
     content: url(/images/fe-icons/hint.svg);

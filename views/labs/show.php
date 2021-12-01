@@ -1,10 +1,13 @@
+<section class="lab">
 <h2><?=$lab->name?></h2>
+<hr>
 
-<h2>Goal</h2>
+<h3 class="goal">Goal</h3>
 <?=$lab->goal?>
 
-<h2>Learn</h2>
+<h3 class="learn">Learn</h3>
 <?=$lab->learn?>
 
-<h2>Practice</h2>
+<h3 class="practice">Practice</h3>
 <?=$lab->practice?>
+</section>

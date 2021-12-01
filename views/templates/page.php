@@ -9,7 +9,7 @@
 	<link rel="icon" type="image/png" href="/images/favicon/favicon-32x32.png" sizes="32x32" />
 	<link rel="icon" type="image/png" href="/images/favicon/favicon-16x16.png" sizes="16x16" />
 	<!-- Prism for syntax highlighting -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-coy.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js"></script>
 
@@ -22,7 +22,7 @@
 			<div>
 				<h1>Computer Science 318</h1>
 				<hr>
-				<p>Fundementals of Web Design</p>
+				<p>Fundamentals of Web Design</p>
 			</div>
 		</a>
 		<nav>

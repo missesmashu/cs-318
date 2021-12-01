@@ -93,7 +93,7 @@
         <ul>
             <li>Deliverables (These are pieces of the project you will be giving to the Client)</li>
             <ul>
-                <li>nformation Architecture of the Website</li>
+                <li>Information Architecture of the Website</li>
                 <li>Wireframes of the Website for Mobile and Desktop</li>
                 <li>Design of the website for Mobile and Desktop</li>
                 <li>Coding of the Website in HTML5 and CSS3</li>
@@ -151,11 +151,13 @@
             <li>Does the brand have icons? If so, what do they look like?</li>
         </ul>
     </ul>
+    <h3>The Tools</h3>
+    <p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>
 </section>
 <section>
     <h2 id="wireframes">The Wireframes</h2>
     <hr>
-    <p>You have now reached the final stage before fully designing your clients website, the wireframes. You will use the information architecture and sitemap as reference for your wireframes. The wireframes will have a low level of fidelity. Focus on layout and high-level interactions (navigation and call to action buttons).</p>
+    <p>You have now reached the stage before fully designing your clients website, the wireframes. You will use the information architecture and sitemap as reference for your wireframes. The wireframes will have a low level of fidelity. Focus on layout and high-level interactions (navigation and call to action buttons).</p>
     <p>
     <h3>The Requirements</h3>
     <ul>
@@ -172,4 +174,40 @@
 <section>
     <h2 id="mockups">The Mockups</h2>
     <hr>
+    <p>You have reached the design phase of the client project. Using the wireframes and brand guide you created, you will build a mockup design for each of the web pages both desktop and mobile.</p>
+    <h3>The Requirements</h3>
+    <ul>
+        <li>One desktop and mobile design per website page. 10 total designs</li>
+        <li>Full Color</li>
+        <li>Copy can be lorem ipsum. It is recommended for call to actions, tag lines, short text to use the actual content.</li>
+    </ul>
+    <h3>The Recommendations</h3>
+    <ul>
+        <li>Design interactive elements like buttons, mobile navigation, etc...</li>
+        <li>Design the header for mobile and desktop before moving on to main content</li>
+        <li>Remember order matters in html. It is really difficult to move an elements out of the order they are listed in html. For instance if you have one column for mobile and three columns for desktop, and you want to move the last element in mobile to the first in desktop it is difficult to accomplish.</li>
+    </ul>
+    <h3>The Tools</h3>
+    <p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>
+</section>
+<section>
+    <h2 id="code">The Code</h2>
+    <hr>
+    <h3>The Requirements</h3>
+    <ul>
+        <li>Minimum 5 html files</li>
+        <li>Minimum 1 CSS file</li>
+        <li>All images must load</li>
+        <li>Links must function properly</li>
+        <li>Website must be responsive. This means it should look good on all screen sizes. Elements should not overlap other elements, </li>
+        <li>No front-end frame works allowed</li>
+        <li>All of your HTML files must have <strong>NO</strong> validation errors! (If you get any warnings clear them with me before turning it in.)</li>
+        <li>All of your CSS must have no errors (some warnings are fine but look at the warning to make sure its not something you can fix.)</li>
+        <li>Must be free of spelling and grammatical errors.</li>
+    </ul>
+    <h3>The Tools</h3>
+    <ul>
+        <li>Visual Studio Code</li>
+        <li>All of your coding knowledge</li>
+    </ul>
 </section>
