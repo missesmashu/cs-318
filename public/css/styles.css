@@ -324,3 +324,8 @@ h2:before{
         grid-area: 1/1/3/2;
     }
 }
+
+
+.ace_editor{
+	min-height:10rem;
+}

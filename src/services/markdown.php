@@ -5,6 +5,7 @@ class markdown extends \funky\services\markdown{
 	public function __construct(){
 		parent::__construct();
 		$this->InlineTypes['['][] = 'Snippet';
+		$this->InlineTypes['['][] = 'Demo';
 		$this->InlineTypes['['][] = 'Document';
 		$this->InlineTypes['['][] = 'Checkbox';
 		$this->InlineTypes['['][] = 'Hint';
@@ -19,6 +20,23 @@ class markdown extends \funky\services\markdown{
 					'extent'=>strlen($matches[0]),
 					'markup'=>f()->view->load('components/snippet', [
 						'snippet'=>$snippet,
+					]),
+				];
+
+				return $ret;
+			}
+		}
+	}
+
+	protected function inlineDemo($excerpt)
+	{
+		if(preg_match('/\[demo\.([0-9]+)\]/', $excerpt['text'], $matches)){
+			$demo = \models\demo::fromid($matches[1]);
+			if($demo->exists()){
+				$ret = [
+					'extent'=>strlen($matches[0]),
+					'markup'=>f()->view->load('components/demo', [
+						'demo'=>$demo,
 					]),
 				];
 
