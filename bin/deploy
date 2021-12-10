@@ -1,0 +1,6 @@
+#!/bin/bash
+
+PROJECTDIR=$(dirname $0)/../
+EXCLUDEFILE=${PROJECTDIR}/bin/deploy-excludes.txt
+rsync -avz --exclude-from ${EXCLUDEFILE} -e ssh ${PROJECTDIR} mistermashu@45.55.82.161:sites/cs318/
+

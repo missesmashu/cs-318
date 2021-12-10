@@ -1,0 +1,5 @@
+/bin/
+/public/uploads/
+/config.txt
+/composer.*
+.git*
