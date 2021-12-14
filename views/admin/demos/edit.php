@@ -16,7 +16,7 @@
 	<?php if($demo->exists()){?>
 		<div class="field">
 			<label>Markdown Snippet</label>
-			<input type="text" readonly value="[code.<?=$demo->id?>]">
+			<input type="text" readonly value="<?=$demo->markdown_snippet()?>">
 		</div>
 	<?php }?>
 </form>
