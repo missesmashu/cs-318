@@ -100,7 +100,7 @@ code{
 main p{
     line-height: 24px;
 }
-main p, main h2, main h3{
+main p, main h2, main h3, main h4, main h5, main ul, main ol{
     max-width: 60rem;
 }
 hr{
@@ -303,7 +303,7 @@ h2:before{
 .demo div.html.editor,.demo div.css.editor, .demo iframe{
     margin:1rem 0;
     width:100%;
-    min-height: 10rem;
+    min-height: 20rem;
     box-sizing: border-box;
 }
 .demo iframe{
