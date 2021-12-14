@@ -298,10 +298,22 @@ h2:before{
 .labs a:hover{
     background-color: #90f39f;
 }
+
+/*demo*/
+.demo div.html.editor,.demo div.css.editor, .demo iframe{
+    margin:1rem 0;
+    width:100%;
+    min-height: 10rem;
+    box-sizing: border-box;
+}
+.demo iframe{
+    border:1px solid #170312;
+    display:block;
+}
 @media (min-width:1200px){
     main{
         display: grid;
-        grid-template-columns: 1fr 3fr;
+        grid-template-columns: 1fr 4fr;
         grid-gap: 1rem;
     }
     .overview, .portfolio-overview{
@@ -327,9 +339,10 @@ h2:before{
     .lab{
         grid-area: 1/1/3/2;
     }
-}
+    .demo{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-gap:1rem;
+    }
 
-
-.ace_editor{
-	min-height:10rem;
 }
