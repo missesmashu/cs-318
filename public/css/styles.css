@@ -93,6 +93,10 @@ h2, h3, h4, h5, h6{
 h3{
     font-size: 1.75rem;
 }
+code{
+    font-size: 1rem;
+    background-color: #00e7ec;
+}
 main p{
     line-height: 24px;
 }
