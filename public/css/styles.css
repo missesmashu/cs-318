@@ -97,7 +97,7 @@ code{
     font-size: 1rem;
     background-color: #00e7ec;
 }
-main p{
+main p, main ol, main ul{
     line-height: 24px;
 }
 main p, main h2, main h3, main h4, main h5, main ul, main ol{
@@ -254,20 +254,25 @@ h2:before{
 .practice h3:before{
     content: url(/images/fe-icons/practice.svg);
 }
-.hint:before{
-    content: url(/images/fe-icons/hint.svg);
-    width:1.1rem;
+.hint:before, .experiment:before{
+    width:2.1rem;
     position: absolute;
     display: inline-block;
     left:.25rem;
+    top:0;
 }
-.hint{
+.hint:before{
+    content: url(/images/fe-icons/hint.svg);
+}
+.experiment:before{
+    content: url(/images/fe-icons/experiment.svg);
+    top:-.25rem;
+}
+.hint, .experiment{
     position: relative;
-    background-color: #87f8f4;
-    padding:.25rem .25rem .25rem 1.75rem;
-    border:2px solid #170312;
-    border-radius: 6px;
+    padding:.25rem .25rem .25rem 2.75rem;
     display: inline-block;
+    color:#5f357e;
 }
 
 /*Lab Styles on homepage*/

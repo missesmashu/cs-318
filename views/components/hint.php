@@ -1,1 +1,1 @@
-<span class="hint">Hint</span>
+<span class="hint">Hint:</span>
