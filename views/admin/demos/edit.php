@@ -9,7 +9,7 @@
 
 <form method="post" action="<?=f()->url->current()?>" id="edit-form">
 	<div class="field"><?=$demo->name->view()?></div>
-	<div class="field"><?=$demo->use_template->view()?></div>
+	<div class="field"><?=$demo->size->view()?></div>
 	<div class="field"><?=$demo->html->view('textarea')?></div>
 	<div class="field"><?=$demo->css->view('textarea')?></div>
 
