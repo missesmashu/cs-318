@@ -9,6 +9,7 @@ class markdown extends \funky\services\markdown{
 		$this->InlineTypes['['][] = 'Document';
 		$this->InlineTypes['['][] = 'Checkbox';
 		$this->InlineTypes['['][] = 'Hint';
+		$this->InlineTypes['['][] = 'Experiment';
 	}
 
 	protected function inlineSnippet($excerpt)
@@ -80,6 +81,18 @@ class markdown extends \funky\services\markdown{
 			$ret = [
 				'extent'=>strlen($matches[0]),
 				'markup'=>f()->view->load('components/hint'),
+			];
+
+			return $ret;
+		}
+	}
+
+	protected function inlineExperiment($excerpt)
+	{
+		if(preg_match('/\[experiment\]/', $excerpt['text'], $matches)){
+			$ret = [
+				'extent'=>strlen($matches[0]),
+				'markup'=>f()->view->load('components/experiment'),
 			];
 
 			return $ret;
