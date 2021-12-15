@@ -1,4 +1,4 @@
-<div class="demo">
+<div class="<?=$demo->size?> demo">
 	<?php if(!empty($demo->html->get())){?>
 		<div>
 			<h4>HTML</h4>

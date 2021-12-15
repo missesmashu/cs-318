@@ -9,7 +9,7 @@ class demo extends \funky\model{
 	public static function fields(){
 		return f()->load->fields([
 			['name', 'text'],
-			['use_template', 'flag', ['default'=>true]],
+			['size', 'enum', ['values'=>['normal', 'small'], 'default'=>'normal']],
 			['html', 'text', ['length'=>'long']],
 			['css', 'text', ['length'=>'long']],
 		]);
