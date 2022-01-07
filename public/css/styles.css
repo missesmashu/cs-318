@@ -319,6 +319,9 @@ h2:before{
     border:1px solid #170312;
     display:block;
 }
+pre{
+    overflow: scroll;
+}
 @media (min-width:1200px){
     main{
         display: grid;
