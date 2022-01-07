@@ -319,8 +319,9 @@ h2:before{
     border:1px solid #170312;
     display:block;
 }
-pre{
-    overflow: scroll;
+.learn pre[class*=language-], .practice pre[class*=language-]{
+    white-space: pre-wrap;
+    overflow: auto;
 }
 @media (min-width:1200px){
     main{
