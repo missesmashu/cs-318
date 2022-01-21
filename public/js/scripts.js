@@ -3,7 +3,7 @@ function demo_init_editor(element){
 	ed.setTheme('ace/theme/monokai');
 	ed.session.setMode('ace/mode/vibrant_ink');
 	ed.setOptions({
-		wrap: false,
+		wrap: true,
 		showPrintMargin: false,
 		fontSize: 16,
 		useWorker: false,
