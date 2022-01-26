@@ -6,35 +6,27 @@
     <div class="assignments">
         <div>
             <a href="#client"><h4>The Client</h4></a>
-            <p>For the overarching project this semester you will be creating a website for a client. But who is this client, what do they do, and who do they serve? You are going to create this client yourself, but the client cannot be yourself.</p>
         </div>
         <div>
             <a href="#proposal"><h4>The Proposal</h4></a>
-            <p>You know who your client is and you have a basic idea of what information and web pages they are going to need. Now it is time to propose what exactly you will be doing for the client.</p>
         </div>
         <div>
             <a href="#sitemap"><h4>The Site Map</h4></a>
-            <p>The next step in the client project, a sitemap. In this week's discussion you came up with the information architecture, for the assignment you are going to take that information and lay it out in a nice format you can deliver to your client.</p>
         </div>
         <div>
             <a href="#information-architecture"><h4>Information Architecture</h4></a>
-            <p>Analyze and map out the client's information architecture of their future website. The website needs at least 5 individual web pages. You are going to map out what content will go on each page. Content doesn't mean full paragraphs, just a few words that sufficiently describe the content, like phone number, our story, etc... </p>
         </div>
         <div>
             <a href="brand-guide"><h4>The Brand Guide</h4></a>
-            <p>The brand guide will be a helpful tool as you move from wireframes to your website mockups. If you reference the guide as you build the mockups it will keep the design consistent from page to page.</p>
         </div>
         <div>
             <a href="#wireframes"><h4>The Wireframes</h4></a>
-            <p>You have now reached the final stage before fully designing your clients website, the wireframes. You will use the information architecture and sitemap as reference for your wireframes. Wireframes are low fidelity designs of the layout of your client's site.</p>
         </div>
         <div>
             <a href="#mockups"><h4>The Mockups</h4></a>
-            <p>Using the wireframes and brand guide you created, you will build a mockup design for each of the web pages in desktop and mobile sizes.</p>
         </div>
         <div>
-            <h4>The Code</h4>
-            <p>Take all of the code you have learned and code the client's website as you have designed it.</p>
+            <a href="#code"><h4>The Code</h4></a>
         </div>
     </div>
 </section>
@@ -66,7 +58,7 @@
             <li>Interests</li>
         </ul>
     </ul>
-    <p>ADD EXAMPLES</p>
+    <a href="/uploads/documents/theclient.pdf" target="_blank">Example</a>
 </section>
 <section>
     <h2 id="proposal">The Proposal</h2>
@@ -102,14 +94,15 @@
         </ul>
     </ul>
     <p>Make it look nice! Remember your are proposing to design a website for the client (your instructor). They say not to judge a book by its cover, but that isn't true for design. Spelling and grammar are important! Make the client believe you are competent.</p>
-    <p>ADD EXAMPLES</p>
+    <a href="/uploads/documents/client-proposal.pdf" target="_blank">Example</a>
 </section>
 <section>
     <h2 id="information-architecture">Information Architecture</h2>
     <hr>
     <p>Analyze and map out the client's information architecture of their future website. The website needs at least 5 individual web pages. You are going to map out what content will go on each page. When I say content I don't mean full paragraphs, just a few words that sufficiently describe the content, like phone number, our story, etc...</p>
     <p>You can do this digitally or on paper. Insert a image of the architecture analysis. (If you create the information architecture on paper, make sure the photo you take is readable).</p>
-    <p>ADD EXAMPLES</p>
+    <a href="/uploads/images/architecture-example-1.png" target="_blank">Example 1</a>
+    <a href="/uploads/images/architecture-example-3.jpeg" target="_blank">Example 2</a>
 </section>
 <section>
     <h2 id="sitemap">The Site Map</h2>
@@ -120,7 +113,7 @@
         <li>A pdf, doc, or docx</li>
         <li>Good spelling and grammar</li>
     </ul>
-    <p>ADD EXAMPLES</p>
+    <a href="/uploads/documents/Thesitemap.pdf" target="_blank">Example</a>
 </section>
 <section>
     <h2 id="brand-guide">The Brand Guide</h2>
@@ -154,6 +147,7 @@
     </ul>
     <h3>The Tools</h3>
     <p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>
+    <a href="/uploads/images/runwayanalytics-brandguide.png" target="_blank">Example</a>
 </section>
 <section>
     <h2 id="wireframes">The Wireframes</h2>
@@ -171,6 +165,8 @@
     </ul>
     <h3>The Tools</h3>
     <p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>
+    <a href="/uploads/images/wireframesthesis-01.png" target="_blank">Desktop Example</a>
+    <a href="/uploads/images/wireframesthesis-02.png" target="_blank">Mobile Example</a>
 </section>
 <section>
     <h2 id="mockups">The Mockups</h2>
@@ -190,6 +186,7 @@
     </ul>
     <h3>The Tools</h3>
     <p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>
+    <a href="/uploads/images/relephant-mockups.png" target="_blank">Example</a>
 </section>
 <section>
     <h2 id="code">The Code</h2>

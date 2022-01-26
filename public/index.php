@@ -16,7 +16,7 @@
 <section class="client">
 	<h2 id="client">The Client Project</h2>
 	<hr>
-	<p>Description of whole client project here.</p>
+	<p>The project will progress through out the semester with 8 individual pieces. The purpose of the project is to give you a taste of what the entire web design process is like, in addition to providing proof of the skills you will have learned throughout the semester.</p>
 	<a href="/client" class="button">Client Details</a>
 </section>
 <section class="portfolio">
