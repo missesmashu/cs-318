@@ -97,8 +97,9 @@ h4{
     font-size:1.25rem;
 }
 code{
-    font-size: 1rem;
-    background-color: #00e7ec;
+    padding:.125rem .25rem;
+    border-radius: .25rem;
+    background-color: #87f8f4;
 }
 main p, main ol, main ul{
     line-height: 24px;
