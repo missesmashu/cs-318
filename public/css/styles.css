@@ -327,7 +327,7 @@ h2:before{
 @media (min-width:1200px){
     main{
         display: grid;
-        grid-template-columns: 20% 80%;
+        grid-template-columns: 20% 79%;
         grid-gap: 1rem;
     }
     .overview, .portfolio-overview{
