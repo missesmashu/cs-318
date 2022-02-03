@@ -6,10 +6,10 @@
     <?=$lab->goal?>
 </section>
 <section class="learn">
-    <h3 >Learn</h3>
+    <h3>Learn</h3>
     <?=$lab->learn?>
 </section>
 <section class="practice">
-    <h3 class="practice">Practice</h3>
+    <h3>Practice</h3>
     <?=$lab->practice?>
 </section>

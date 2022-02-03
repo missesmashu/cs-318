@@ -10,19 +10,19 @@
 	<h3>The Requirements</h3>
 	<ul>
 		<li>A Logo</li>
-		<li>About Information</li>
-		<ul>
-			<li>A paragraph about you, your passions, your goals, etc...</li>
-			<li>Any work experience you have</li>
-			<li>Any school information</li>
-			<li>Any achievements, awards, certificates, etc...</li>
-			<li>Don't be afraid to show a little personality</li>
-		</ul>
+		<li>About Information
+			<ul>
+				<li>A paragraph about you, your passions, your goals, etc...</li>
+				<li>Any work experience you have</li>
+				<li>Any school information</li>
+				<li>Any achievements, awards, certificates, etc...</li>
+				<li>Don't be afraid to show a little personality</li>
+		</ul></li>
 		<li>Gallery/Collection of your work images, projects, recordings, etc</li>
 		<li>Contact Information</li>
-		<ul>
+		<li><ul>
 			<li>Phone, email, carrier pigeon... how will someone get in touch with you?</li>
-		</ul>
+		</ul></li>
 		<li>Mobile and Desktop website design</li>
 	</ul>
 	<h3>The Tools</h3>

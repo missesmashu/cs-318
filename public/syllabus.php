@@ -196,7 +196,6 @@
 	</ul>
 	<p>I am compelled by UWEC policy to notify the Department if I find evidence of plagiarism. Note that academic dishonesty includes not only cheating, fabrication, and plagiarism, but also includes helping other students commit acts of academic dishonesty by allowing them to obtain copies of your work. You are allowed to use the Web for reference purposes, but you may not copy material from any website or any other source without proper citations (<a href="https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html">APA formatting</a>). In short, all submitted work must be your own. Cases of academic dishonesty will be dealt with strictly.</p>
 	<p>The academic penalty for a finding of responsibility can range from a grade of zero in the specific assignment to an F in this course.</p>
-	<h3>
 	<h3>Misuse of Computer Resources</h3>
 	<p>Conduct that involves any of the following:</p>
 	<ul>

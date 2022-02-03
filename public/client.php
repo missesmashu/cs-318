@@ -38,25 +38,28 @@
     <p>You will turn in a word document or pdf with the following information:</p>
     <ul>
         <li>Name of Client</li>
-        <li>Client Logo</li>
-        <ul>
-            <li>Black and white only, no color yet</li>
-            <li>You can use free clipart, free icon, or your own artwork</li>
-            <li>This <a href="https://www.flaticon.com/">website</a> has a large selection of free icons</li>
-        </ul>
-        <li>Short Description of the client (4-5 sentences):</li>
-        <ul>
-            <li>Where are they located?</li>
-            <li>What do they do?</li>
-        </ul>
-        <li>Target audience of the client:</li>
-        <ul>
-            <li>Age</li>
-            <li>Gender</li>
-            <li>Location</li>
-            <li>Job</li>
-            <li>Interests</li>
-        </ul>
+        <li>Client Logo
+            <ul>
+                <li>Black and white only, no color yet</li>
+                <li>You can use free clipart, free icon, or your own artwork</li>
+                <li>This <a href="https://www.flaticon.com/">website</a> has a large selection of free icons</li>
+            </ul>
+        </li>
+        <li>Short Description of the client (4-5 sentences):
+            <ul>
+                <li>Where are they located?</li>
+                <li>What do they do?</li>
+            </ul>
+        </li>
+        <li>Target audience of the client:
+            <ul>
+                <li>Age</li>
+                <li>Gender</li>
+                <li>Location</li>
+                <li>Job</li>
+                <li>Interests</li>
+            </ul>
+        </li>
     </ul>
     <a href="/uploads/documents/theclient.pdf" target="_blank">Example</a>
 </section>
@@ -66,32 +69,36 @@
     <h3>The Requirements</h3>
     <p>You will turn in a word document or pdf with the following information:</p>
     <ul>
-        <li>Nice Cover Page</li>
-        <ul>
-            <li>Client name</li>
-            <li>Your Name</li>
-            <li>Class Name</li>
-        </ul>
+        <li>Nice Cover Page
+            <ul>
+                <li>Client name</li>
+                <li>Your Name</li>
+                <li>Class Name</li>
+            </ul>
+        </li>
         <li>Business Overview of the Client</li>
         <li>Goal of the Website</li>
-        <li>Website Project Overview</li>
-        <ul>
-            <li>Website Name</li>
-            <li>Website Domain</li>
-            <li>Name of Client</li>
-            <li>List of individual Web Pages (minimum of 5 web pages)</li>
-        </ul>
-        <li>Statement of work</li>
-        <ul>
-            <li>Deliverables (These are pieces of the project you will be giving to the Client)</li>
+        <li>Website Project Overview
             <ul>
-                <li>Information Architecture of the Website</li>
-                <li>Wireframes of the Website for Mobile and Desktop</li>
-                <li>Design of the website for Mobile and Desktop</li>
-                <li>Coding of the Website in HTML5 and CSS3</li>
-                <li>Deploy of the Website</li>
+                <li>Website Name</li>
+                <li>Website Domain</li>
+                <li>Name of Client</li>
+                <li>List of individual Web Pages (minimum of 5 web pages)</li>
             </ul>
-        </ul>
+        </li>
+        <li>Statement of work
+            <ul>
+                <li>Deliverables (These are pieces of the project you will be giving to the Client)
+                    <ul>
+                        <li>Information Architecture of the Website</li>
+                        <li>Wireframes of the Website for Mobile and Desktop</li>
+                        <li>Design of the website for Mobile and Desktop</li>
+                        <li>Coding of the Website in HTML5 and CSS3</li>
+                        <li>Deploy of the Website</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
     </ul>
     <p>Make it look nice! Remember your are proposing to design a website for the client (your instructor). They say not to judge a book by its cover, but that isn't true for design. Spelling and grammar are important! Make the client believe you are competent.</p>
     <a href="/uploads/documents/client-proposal.pdf" target="_blank">Example</a>
@@ -123,27 +130,32 @@
     <ul>
         <li>Short statement outlining the mission or purpose of the business and defining its audience.</li>
         <li>Logo</li>
-        <li>Color Palette</li>
-        <ul>
-            <li>Think about primary and secondary colors. Do these colors have a hover color or is the secondary color the hover color, etc... Are your calls to action a particular color?</li>
-            <li>Make sure to include either RGB or Hex numbers for the colors you select. Not CMYK that is for print designs.</li>
-        </ul>
-        <li>Typography</li>
-        <ul>
-            <li>Choose your headline and body fonts (remember that there are limited default fonts that web browsers support, but if you are not satisfied with those <a href="https://fonts.google.com/">Google Fonts</a> has a huge selection that are easy to use for web development</li>
-        </ul>
-        <li>Copy Writing Guidelines</li>
-        <ul>
-            <li>This is the voice of the text for the brand. Is the voice happy, serious, uplifting, snarky, etc...</li>
-        </ul>
-        <li>Images</li>
-        <ul>
-            <li>What are the images for the brand like? Soft and warm, black and white. Do they feature people or animals? Are they all nature images?</li>
-        </ul>
-        <li>Icons (optional)</li>
-        <ul>
-            <li>Does the brand have icons? If so, what do they look like?</li>
-        </ul>
+        <li>Color Palette
+            <ul>
+                <li>Think about primary and secondary colors. Do these colors have a hover color or is the secondary color the hover color, etc... Are your calls to action a particular color?</li>
+                <li>Make sure to include either RGB or Hex numbers for the colors you select. Not CMYK that is for print designs.</li>
+            </ul>
+        </li>
+        <li>Typography
+            <ul>
+                <li>Choose your headline and body fonts (remember that there are limited default fonts that web browsers support, but if you are not satisfied with those <a href="https://fonts.google.com/">Google Fonts</a> has a huge selection that are easy to use for web development</li>
+            </ul>
+        </li>
+        <li>Copy Writing Guidelines
+            <ul>
+                <li>This is the voice of the text for the brand. Is the voice happy, serious, uplifting, snarky, etc...</li>
+            </ul>
+        </li>
+        <li>Images
+            <ul>
+                <li>What are the images for the brand like? Soft and warm, black and white. Do they feature people or animals? Are they all nature images?</li>
+            </ul>
+        </li>
+        <li>Icons (optional)
+            <ul>
+                <li>Does the brand have icons? If so, what do they look like?</li>
+            </ul>
+        </li>
     </ul>
     <h3>The Tools</h3>
     <p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>

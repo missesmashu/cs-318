@@ -96,6 +96,9 @@ h3{
 h4{
     font-size:1.25rem;
 }
+ul ~ li{
+    list-style: none;
+}
 code{
     padding:.125rem .25rem;
     border-radius: .25rem;
