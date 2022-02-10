@@ -280,6 +280,10 @@ h2:before{
     color:#5f357e;
     font-weight: 900;
 }
+.experiment{
+    display: block;
+    margin:0;
+}
 
 /*Lab Styles on homepage*/
 .labs{
