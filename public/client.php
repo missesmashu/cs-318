@@ -33,7 +33,7 @@
 <section>
     <h2 id="client">The Client</h2>
     <hr>
-    <p>Must be a business or organization in need of a website. <br>Examples: An non-profit organization like animal shelter, food pantry, unicorn conservatory, or a business like a honey distributor, sandwich shop, bike emporium, etc... Keep in mind that this entire project will be a great piece for a portfolio so keep it work appropriate.</p>
+    <p>Must be a business or organization in need of a website. Can be a real or fictitious business <br>Examples: An non-profit organization like animal shelter, food pantry, unicorn conservatory, or a business like a honey distributor, sandwich shop, bike emporium, etc... Keep in mind that this entire project will be a great piece for a portfolio so keep it work appropriate.</p>
     <h3>The Requirements</h3>
     <p>You will turn in a word document or pdf with the following information:</p>
     <ul>
