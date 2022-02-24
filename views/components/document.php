@@ -1,1 +1,1 @@
-<a href="<?=$document->file->url()?>"><?=$document->name?></a>
+<a href="<?=$document->file->url()?>" target="_blank"><?=$document->name?></a>
