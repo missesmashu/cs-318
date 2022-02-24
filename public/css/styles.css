@@ -329,6 +329,9 @@ h2:before{
     white-space: pre-wrap;
     overflow: auto;
 }
+.learn code, .practice code{
+    padding:0;
+}
 @media (min-width:1200px){
     main{
         display: grid;
