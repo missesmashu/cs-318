@@ -27,8 +27,8 @@
 	</ul>
 	<h3>The Tools</h3>
 	<ul>
-		<li>Adobe Illustrator or Canva to create the logo</li>
-		<li>Adobe Illustrator, Photoshop, InDesign, or Canva to design the website</li>
+		<li>Adobe Illustrator or Canva (only paid canva can export svgs) to create the logo</li>
+		<li>Adobe Illustrator, Photoshop, InDesign, Gimp, or Canva to design the website</li>
 		<li>Canvas Discussion to get feedback and submit your assignment</li>
 	</ul>
 </section>
