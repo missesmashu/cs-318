@@ -36,6 +36,14 @@
 	<h2>Part 2: The Code</h2>
 	<hr>
 	<p>Attempt to recreate your design with HTML and CSS. Plan out the HTML container you will need to make your design transition from mobile to desktop.</p>
+	<h3>The Requirments</h3>
+	<ul>
+		<li><a href="/labs/portfolio-github-setup">Setup for the files</a></li>
+		<li><a href="/labs/adding-a-favicon">Add a favicon to your website</a></li>
+		<li>Your site must look good on multiple screen widths</li>
+		<li>Your site must be deployed using GitHub pages (instructions in second part of file setup)</li>
+		<li>After deploying add a link to your website to the Portfolio Websites discussion post in Canvas</li>
+	</ul>
 	<h3>The Hints</h3>
 	<h4>Mobile First</h4>
 	<p>For the portfolio it is recommended to use the mobile first model. What this means is you will code and style your website in mobile format first. When you get to the point of CSS coding make your browser window as narrow as possible before adding any CSS. Once your website looks great a narrow size, make the screen wider. Once your CSS no longer looks good, add a media query for that screen size.</p>
