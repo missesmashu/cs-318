@@ -17,7 +17,7 @@
             <a href="#information-architecture"><h4>Information Architecture</h4></a>
         </div>
         <div>
-            <a href="brand-guide"><h4>The Brand Guide</h4></a>
+            <a href="#brand-guide"><h4>The Brand Guide</h4></a>
         </div>
         <div>
             <a href="#wireframes"><h4>The Wireframes</h4></a>
@@ -35,7 +35,7 @@
     <hr>
     <p>Must be a business or organization in need of a website. Can be a real or fictitious business <br>Examples: An non-profit organization like animal shelter, food pantry, unicorn conservatory, or a business like a honey distributor, sandwich shop, bike emporium, etc... Keep in mind that this entire project will be a great piece for a portfolio so keep it work appropriate.</p>
     <h3>The Requirements</h3>
-    <p>You will turn in a word document or pdf with the following information:</p>
+    <p>Name your file: lastnamefirstinitial-theclient<br>You will turn in a word document or pdf with the following information:</p>
     <ul>
         <li>Name of Client</li>
         <li>Client Logo
@@ -67,7 +67,7 @@
     <h2 id="proposal">The Proposal</h2>
     <hr>
     <h3>The Requirements</h3>
-    <p>You will turn in a word document or pdf with the following information:</p>
+    <p>Name your file: lastnamefirstinitial-theproposal<br>You will turn in a word document or pdf with the following information:</p>
     <ul>
         <li>Nice Cover Page
             <ul>
@@ -106,6 +106,7 @@
 <section>
     <h2 id="information-architecture">Information Architecture</h2>
     <hr>
+    <p>Name your file: lastnamefirstinitial-informationarchitecture<p>
     <p>Analyze and map out the client's information architecture of their future website. The website needs at least 5 individual web pages. You are going to map out what content will go on each page. When I say content I don't mean full paragraphs, just a few words that sufficiently describe the content, like phone number, our story, etc...</p>
     <p>You can do this digitally or on paper. Insert a image of the architecture analysis. (If you create the information architecture on paper, make sure the photo you take is readable).</p>
     <a href="/uploads/images/architecture-example-1.png" target="_blank">Example 1</a>
@@ -117,6 +118,7 @@
     <p>You have developed the information architecture for your client's website. Now you are going to take that information and lay it out in a nice format you can deliver to your client. I have added an example of two different examples of sitemaps below.</p>
     <h3>The Requirements</h3>
     <ul>
+        <li>Name your file: lastnamefirstinitial-sitemap</li>
         <li>A pdf, doc, or docx</li>
         <li>Good spelling and grammar</li>
     </ul>
@@ -127,6 +129,7 @@
     <hr>
     <p>The brand guide will be a helpful tool as you move from wireframes to your website mockups. If you reference the guide as you build the mockups it will keep the design consistent from mobile to desktop and page to page.</p>
     <h3>The Requirements</h3>
+    <p>Name your file: lastnamefirstinitial-brandguide<p>
     <ul>
         <li>Short statement outlining the mission or purpose of the business and defining its audience.</li>
         <li>Logo</li>
@@ -167,6 +170,7 @@
     <p>You have now reached the stage before fully designing your clients website, the wireframes. You will use the information architecture and sitemap as reference for your wireframes. The wireframes will have a low level of fidelity. Focus on layout and high-level interactions (navigation and call to action buttons).</p>
     <p>
     <h3>The Requirements</h3>
+    <p>Submit your files in a zipped folder with the name: lastnamefirstinitial-wireframes<p>
     <ul>
         <li>One desktop and mobile wireframe per website page. 10 total wireframes</li>
         <li>Gray-scale. Notice the only color in the examples is active links and is not a design color.</li>
@@ -185,6 +189,7 @@
     <hr>
     <p>You have reached the design phase of the client project. Using the wireframes and brand guide you created, you will build a mockup design for each of the web pages both desktop and mobile.</p>
     <h3>The Requirements</h3>
+    <p>Submit your files in a zipped folder with the name: lastnamefirstinitial-mockups<p>
     <ul>
         <li>One desktop and mobile design per website page. 10 total designs</li>
         <li>Full Color</li>
