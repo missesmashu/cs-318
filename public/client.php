@@ -210,19 +210,32 @@
     <hr>
     <h3>The Requirements</h3>
     <ul>
+    <li><a href="/labs/final-project-setup">Setup for the files</a></li>
         <li>Minimum 5 html files</li>
         <li>Minimum 1 CSS file</li>
         <li>All images must load</li>
         <li>Links must function properly</li>
-        <li>Website must be responsive. This means it should look good on all screen sizes. Elements should not overlap other elements, </li>
-        <li>No front-end frame works allowed</li>
         <li>All of your HTML files must have <strong>NO</strong> validation errors! (If you get any warnings clear them with me before turning it in.)</li>
-        <li>All of your CSS must have no errors (some warnings are fine but look at the warning to make sure its not something you can fix.)</li>
+        <li>All of your CSS must have NO errors (some warnings are fine but look at the warning to make sure its not something you can fix.)</li>
         <li>Must be free of spelling and grammatical errors.</li>
+		<li><a href="/labs/adding-a-favicon">Must have a favicon that matches the client's brand</a></li>
+		<li>Your site must look good on multiple screen widths</li>
+        <li>No front-end frame works allowed. (examples are: Bootstrap, Angular, Meteor)</li>
+        <li>Your site must be deployed using GitHub pages (instructions in second part of <a href="/labs/final-project-setup">file setup)</a></li>
     </ul>
     <h3>The Tools</h3>
     <ul>
         <li>Visual Studio Code</li>
         <li>All of your coding knowledge</li>
+    </ul>
+    <h3>The Grade Rubric</h3>
+    <h4>Each web page is worth 4 points. 20 points/5 web pages</h4>
+    <em>If you have more than 5 web pages I pick the best ones</em>
+    <p>The 4 point breakdown:</p>
+    <ul>
+        <li>1 pt - Valid HTML</li>
+        <li>1 pt - Valid CSS</li>
+        <li>1 pt - Images loading and links functioning</li>
+        <li>1 pt - Free of spelling and grammatical errors in content.</li>
     </ul>
 </section>
