@@ -2,7 +2,7 @@
     <h2>The Syllabus</h2>
     <hr>
     <h3><a href="https://www.uwec.edu/ULEC/Liberal-Education-Framework-Learning-Outcome-and-Rubrics.htm">Liberal Education Core Syllabus Language</a></h3>
-    <p>The UW-Eau Claire Liberal Education (LE) Core curriculum serves as a strong foundation for all of our academic programs. Our LE Core embodies the Power of [AND] in its design. It has been developed to ensure that you acquire the knowledge AND skills AND responsibility that you will need to actively engage in a global society. Through meeting the requirements of the LE Core you will develop the ability to think critically, creatively and independently. You will learn to integrate and apply your knowledge and develop values essential to becoming a constructive global citizen. The outcomes will empower you and prepare you to deal with complexity, diversity, and change in multiple settings. They will also develop highly marketable skills and lead to life-long learning and civic engagement.</p>
+    <p>The Liberal Education Core is designed to assist you to develop the skills, knowledge and values needed to engage with highly diverse communities in a global society. Through the liberal education core, UWEC hopes to foster in you the ability to think with intellectual rigor, creativity, and independence, to develop your ability to integrate and apply knowledge, and to empower you to act as a humane, thoughtful leader in the community, the workplace, and the world of ideas. By beginning with the liberal education core and working toward its learning outcomes, we seek to help you establish a strong, broad foundation around which you will build a rich baccalaureate program.</p>
     <p>In this course we will investigate the design of static web pages. We will use HTML5 and CSS to structure and style content.</p>
     <p>Upon successfully completing this course you will be able to:</p>
 	<ul>
@@ -22,7 +22,7 @@
 	<p>email: <strong><a href="mailto:hansontm@uwec.edu">hansontm@uwec.edu</a></strong></p>
 	<p>website: <strong><a href="https://theresahanson.com/">theresahanson.com</a></strong></p>
 	<p>office: <strong>Phillips 140</strong></p>
-	<p>office hours: <strong>Tuesday 10:00 - 11:30</strong></p>
+	<p>office hours: <strong>Wednesday 10:00 - 11:30</strong></p>
 	<p>communication: <strong>Your instructor has a finite amount of time. All emails will be answered between the hours of 8 am to 5 pm Monday through Friday. If you have multiple questions in your email please number them, to ensure they will all get answered.</strong></p>
 	<p>about: <strong>Master's of Fine Arts in Media Design (Full Sail University), Bachelor's of Fine Arts in Illustration (UWEC). Eight years experience as a professional web designer, ten years experience as a graphic designer, three years experience as a instructor.</strong></p>
 </section>
@@ -132,12 +132,14 @@
 <section>
 	<h2>Important Dates</h2>
 	<hr>
-	<p><strong>February 11th</strong></p>
-	<p>Last day to drop full-semester Spring courses with no record. Last day to register for full-semester Spring courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
-	<p><strong>April 29th</strong></p>
+	<p><strong>September 19th</strong></p>
+	<p>Last day to drop full-semester Fall courses with no record. Last day to register for full-semester Fall courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
+	<p><strong>December 1st</strong></p>
 	<p>Last day to file withdrawal from the University with “W”s. Last day to withdraw from individual full-semester classes.</p>
-	<p><strong>May 13th</strong></p>
-	<p>Spring semester ends</p>
+	<p><strong>December 15th</strong></p>
+	<p>Fall semester ends</p>
+	<p><strong>December 16th - 22nd</strong></p>
+	<p>Final Exams</p>
 </section>
 <section>
 	<h2>Accommodations</h2>
