@@ -157,8 +157,6 @@
 	<p>Each of us shares responsibility for the health and safety of all in the classroom environment. Maintaining social distances, wearing a face cover, and self-reporting symptomatic information are university directives that we all must follow until further notice (for the latest guidance see uwec.edu/coronavirus-updates/).</p>
 	<p>Specifically, in this classroom we will mitigate the risks of virus transfer by abiding by the following safety directives:</p>
 	<ul>
-		<li>Always maintain 6 feet of social distance in classroom and laboratory environments</li>
-		<li>Wear a cloth face covering for the entirety of class</li>
 		<li>Stay home when sick</li>
 	</ul>
 	<p>In the classroom, any student who does not follow these provisions will be asked once to follow the safety directives. If the student does not comply, I will next ask the student to leave the class for that day. I will also refer the matter to the Dean of Students Office for review should a student persist in ignoring safety directives.</p>

@@ -11,9 +11,6 @@
             <a href="#proposal"><h4>The Proposal</h4></a>
         </div>
         <div>
-            <a href="#sitemap"><h4>The Site Map</h4></a>
-        </div>
-        <div>
             <a href="#information-architecture"><h4>Information Architecture</h4></a>
         </div>
         <div>
@@ -111,18 +108,6 @@
     <p>You can do this digitally or on paper. Insert a image of the architecture analysis. (If you create the information architecture on paper, make sure the photo you take is readable).</p>
     <a href="/uploads/images/architecture-example-1.png" target="_blank">Example 1</a>
     <a href="/uploads/images/architecture-example-3.jpeg" target="_blank">Example 2</a>
-</section>
-<section>
-    <h2 id="sitemap">The Site Map</h2>
-    <hr>
-    <p>You have developed the information architecture for your client's website. Now you are going to take that information and lay it out in a nice format you can deliver to your client. I have added an example of two different examples of sitemaps below.</p>
-    <h3>The Requirements</h3>
-    <ul>
-        <li>Name your file: lastnamefirstinitial-sitemap</li>
-        <li>A pdf, doc, or docx</li>
-        <li>Good spelling and grammar</li>
-    </ul>
-    <a href="/uploads/documents/Thesitemap.pdf" target="_blank">Example</a>
 </section>
 <section>
     <h2 id="brand-guide">The Brand Guide</h2>
