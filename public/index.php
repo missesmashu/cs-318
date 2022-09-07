@@ -30,7 +30,7 @@
 		<h2 id="labs">The Labs</h2>
 		<hr>
 	</header>
-	<?php foreach(\models\lab::query() as $lab){?>
+	<?php foreach(\models\lab::query()->order('name') as $lab){?>
 		<a href="<?=$lab->path()?>"><?=$lab->name?></a>
 	<?php }?>
 </section>
