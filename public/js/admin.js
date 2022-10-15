@@ -55,6 +55,19 @@ feedpage.init = function(url, singular_noun){
 	if($filters.length > 0){
 		$filters.find('select').on('change', feedpage.load);
 		$filters.find('input').on('input', feedpage.load);
+
+		// export button needs to append filters
+		$('.export.button').each(function(){
+			$(this).on('click', function(e){
+				e.preventDefault();
+
+				// append filters to the URL
+				let export_url = $(this).attr('href');
+				if(export_url.substr(-1) != '/') export_url += '/';
+				export_url += '&'+$filters.serialize();
+				location.href = export_url;
+			});
+		});
 	}
 };
 feedpage.load = function(){
@@ -319,7 +332,17 @@ imagesfield.refresh_thumbnails = function($imagesfield){
 		$thumbnails.html(response);
 	});
 };
+imagesfield.delete = function(image_id){
+	var $hidden = imagesfield.$current_field.find('input[type=hidden]');
 
+	// remove the image_id from the list of selected images
+	var ids = $hidden.val().split(',').filter(function(val){return val!='';});
+	var idx = ids.indexOf(image_id);
+	if(idx >= 0) ids.splice(idx, 1);
+	$hidden.val(ids.join(','));
+	imagesfield.refresh_thumbnails(imagesfield.$current_field);
+	modal.close();
+};
 
 var tabs = {};
 tabs.ajax = null;
@@ -555,6 +578,7 @@ bridge_field.search = function($bf){
 			let $li = $(this);
 			let id = $li.attr('data-id');
 			bridge_field.select($bf, id, $li.text());
+			$bf.find('input[type=search]').focus();
 		});
 		$searchResults.show();
 	});
@@ -599,3 +623,16 @@ bridge_field.deselect = function(tag_ele){
 	$tag.remove();
 }
 $(bridge_field.init);
+
+
+// Mobile Navigation
+document.addEventListener("DOMContentLoaded", function(){
+	document.querySelector('.hamburger').addEventListener('click', function(){
+		document.querySelector('body>nav').classList.toggle('show');
+		document.querySelector('.overlay').classList.toggle('show');
+	});
+	document.querySelector('.overlay').addEventListener('click', function(){
+		document.querySelector('body>nav').classList.toggle('show');
+		document.querySelector('.overlay').classList.toggle('show');
+	});
+});

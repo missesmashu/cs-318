@@ -1,13 +1,12 @@
 <header>
-	<h2>Editing Snippet</h2>
+	<h2><a href="/admin/snippets">Snippets</a> / <?=($snippet->exists()) ? 'Edit' : 'New'?></h2>
 	<div>
-		<a class="button" href="/admin/snippets">Back to snippets</a>
-		<a class="button" href="<?=f()->url->get('admin/snippets/edit/0')?>">New Snippet</a>
-		<input type="submit" value="Save" class="green" form="edit-form">
+		<a class="button" href="/admin/snippets/edit/0">New Snippet</a>
+		<button class="save" form="edit-form">Save</button>
 	</div>
 </header>
 
-<form method="post" action="<?=f()->url->current()?>" id="edit-form">
+<form method="post" action="" id="edit-form">
 	<div class="field"><?=$snippet->name->view()?></div>
 	<div class="field"><?=$snippet->language->view()?></div>
 	<div class="field"><?=$snippet->code->view('textarea')?></div>

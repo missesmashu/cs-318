@@ -1,13 +1,12 @@
 <header>
-	<h2>Editing Demo</h2>
+	<h2><a href="/admin/demos">Demos</a> / <?=($demo->exists()) ? 'Edit' : 'New'?></h2>
 	<div>
-		<a class="button" href="/admin/demos">Back to demos</a>
-		<a class="button" href="<?=f()->url->get('admin/demos/edit/0')?>">New Demo</a>
-		<input type="submit" value="Save" class="green" form="edit-form">
+		<a class="button" href="/admin/demos/edit/0">New Demo</a>
+		<button class="save" form="edit-form">Save</button>
 	</div>
 </header>
 
-<form method="post" action="<?=f()->url->current()?>" id="edit-form">
+<form method="post" action="" id="edit-form">
 	<div class="field"><?=$demo->name->view()?></div>
 	<div class="field"><?=$demo->size->view()?></div>
 	<div class="field"><?=$demo->html->view('textarea')?></div>
