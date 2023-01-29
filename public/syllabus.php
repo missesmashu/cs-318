@@ -22,7 +22,7 @@
 	<p>email: <strong><a href="mailto:hansontm@uwec.edu">hansontm@uwec.edu</a></strong></p>
 	<p>website: <strong><a href="https://theresahanson.com/">theresahanson.com</a></strong></p>
 	<p>office: <strong>Phillips 140</strong></p>
-	<p>office hours: <strong>Wednesday 10:00 - 11:30</strong></p>
+	<p>office hours: <strong>Tuesday 10:00 - 11:30</strong></p>
 	<p>communication: <strong>Your instructor has a finite amount of time. All emails will be answered between the hours of 8 am to 5 pm Monday through Friday. If you have multiple questions in your email please number them, to ensure they will all get answered.</strong></p>
 	<p>about: <strong>Master's of Fine Arts in Media Design (Full Sail University), Bachelor's of Fine Arts in Illustration (UWEC). Eight years experience as a professional web designer, ten years experience as a graphic designer, three years experience as a instructor.</strong></p>
 </section>
@@ -132,13 +132,13 @@
 <section>
 	<h2>Important Dates</h2>
 	<hr>
-	<p><strong>September 19th</strong></p>
+	<p><strong>February 10th</strong></p>
 	<p>Last day to drop full-semester Fall courses with no record. Last day to register for full-semester Fall courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
-	<p><strong>December 1st</strong></p>
+	<p><strong>March 28th</strong></p>
 	<p>Last day to file withdrawal from the University with “W”s. Last day to withdraw from individual full-semester classes.</p>
-	<p><strong>December 15th</strong></p>
+	<p><strong>May 12th</strong></p>
 	<p>Fall semester ends</p>
-	<p><strong>December 16th - 22nd</strong></p>
+	<p><strong>May 15th - 19th</strong></p>
 	<p>Final Exams</p>
 </section>
 <section>
