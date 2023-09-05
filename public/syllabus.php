@@ -22,9 +22,9 @@
 	<p>email: <strong><a href="mailto:hansontm@uwec.edu">hansontm@uwec.edu</a></strong></p>
 	<p>website: <strong><a href="https://theresahanson.com/">theresahanson.com</a></strong></p>
 	<p>office: <strong>Phillips 140</strong></p>
-	<p>office hours: <strong>Tuesday 10:00 - 11:30</strong></p>
+	<p>office hours: <strong>Wednesday 10 am - 11 am</strong></p>
 	<p>communication: <strong>Your instructor has a finite amount of time. All emails will be answered between the hours of 8 am to 5 pm Monday through Friday. If you have multiple questions in your email please number them, to ensure they will all get answered.</strong></p>
-	<p>about: <strong>Master's of Fine Arts in Media Design (Full Sail University), Bachelor's of Fine Arts in Illustration (UWEC). Eight years experience as a professional web designer, ten years experience as a graphic designer, three years experience as a instructor.</strong></p>
+	<p>about: <strong>Master's of Fine Arts in Media Design (Full Sail University), Bachelor's of Fine Arts in Illustration (UWEC). Eight years experience as a professional web designer, ten years experience as a graphic designer, four years experience as a instructor.</strong></p>
 </section>
 <section class="tools">
 	<h2>The Tools</h2>
@@ -73,7 +73,7 @@
 <section>
 	<h2>The Assignments</h2>
 	<hr>
-	<h3>18 Labs</h3>
+	<h3>20 Labs</h3>
 	<p>worth: <strong>1 pt/lab</strong></p>
 	<ul>
 		<li>Partial credit not given for labs</li>
@@ -95,9 +95,9 @@
 		<li>Automatic deduction of 1 point/discussion for missing response posts</li>
 	</ul>
 	<h3>The Portfolio Project</h3>
-	<p>worth: <strong>10 pts</strong></p>
+	<p>worth: <strong>8 pts</strong></p>
 	<ul>
-		<li>Two part assignment 5 pts each</li>
+		<li>Two part assignment 4 pts each</li>
 		<li>Part one: Design personal portfolio</li>
 		<li>Part two: Create the design using HTML and CSS</li>
 	</ul>
@@ -132,13 +132,13 @@
 <section>
 	<h2>Important Dates</h2>
 	<hr>
-	<p><strong>February 10th</strong></p>
-	<p>Last day to drop full-semester Fall courses with no record. Last day to register for full-semester Fall courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
-	<p><strong>March 28th</strong></p>
+	<p><strong>Sept 19th</strong></p>
+	<p>Last day to drop full-semester courses with no record. Last day to register for full-semester courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
+	<p><strong>Nov 14th</strong></p>
 	<p>Last day to file withdrawal from the University with “W”s. Last day to withdraw from individual full-semester classes.</p>
-	<p><strong>May 12th</strong></p>
-	<p>Fall semester ends</p>
-	<p><strong>May 15th - 19th</strong></p>
+	<p><strong>December 15th</strong></p>
+	<p>Fall classes ends</p>
+	<p><strong>December 18th - 22nd</strong></p>
 	<p>Final Exams</p>
 </section>
 <section>
