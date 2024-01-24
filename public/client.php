@@ -108,7 +108,7 @@
 	<?php }?>
 </section>
 <section>
-	<h2 id="information-architecture">Information Architecture</h2>
+	<h2 id="i nformation-architecture">Information Architecture</h2>
 	<hr>
 	<p>Name your file: lastnamefirstinitial-informationarchitecture<p>
 	<p>Analyze and map out the client's information architecture of their future website. The website needs at least 5 individual web pages. You are going to map out what content will go on each page. When I say content I don't mean full paragraphs, just a few words that sufficiently describe the content, like phone number, our story, etc...</p>
