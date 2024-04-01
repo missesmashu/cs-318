@@ -122,6 +122,7 @@ section img{
     box-shadow: 1px 1px 1px #17031265;
 }
 a{
+    word-wrap: break-word;
     color:#4bc999;
 }
 a:visited{
