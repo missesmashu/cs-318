@@ -42,7 +42,7 @@
 		<li><a href="/labs/adding-a-favicon">Add a favicon to your website</a></li>
 		<li>Your site must look good on multiple screen widths</li>
 		<li>Your site must be deployed using GitHub pages (instructions in second part of file setup)</li>
-		<li>After deploying add a link to your website to the Portfolio Websites discussion post in Canvas</li>
+		<li>After deploying take a screenshot of your homepage. Go to <a href="https://padlet.com/theresamariahanson/portfolios-tixfe7787wahh9s1">this Padlet discussion</a> and change "Your Name" to your name, upload the screenshot, and paste a link to your website where it says "Write something fantastic".</li>
 	</ul>
 	<h3>The Hints</h3>
 	<h4>Mobile First</h4>
