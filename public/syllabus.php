@@ -22,7 +22,7 @@
 	<p>email: <strong><a href="mailto:hansontm@uwec.edu">hansontm@uwec.edu</a></strong></p>
 	<p>website: <strong><a href="https://theresahanson.com/">theresahanson.com</a></strong></p>
 	<p>office: <strong>Phillips 140</strong></p>
-	<p>office hours: <strong>Wednesday 9 am - 10 am</strong></p>
+	<p>office hours: <strong>Thursday 10 am - 11 am</strong></p>
 	<p>communication: <strong>Your instructor has a finite amount of time. All emails will be answered between the hours of 8 am to 5 pm Monday through Friday. If you have multiple questions in your email please number them, to ensure they will all get answered.</strong></p>
 	<p>about: <strong>Master's of Fine Arts in Media Design (Full Sail University), Bachelor's of Fine Arts in Illustration (UWEC). Eight years experience as a professional web designer, ten years experience as a graphic designer, four years experience as a instructor.</strong></p>
 </section>
@@ -42,14 +42,14 @@
 	</ul>
 	<h4>Canvas</h4>
 	<ul>
-		<li>For assignment submissions, discussion posts, and quizzes</li>
+		<li>For discussion posts and quizzes</li>
 	</ul>
 	<h3>The Websites</h3>
-	<h4><a href="https://validator.w3.org/">W3C validator</a></h4>
+	<h4><a href="https://validator.w3.org/">HTML validator</a></h4>
 	<ul>
 		<li>Allows Internet users to check HTML and XHTML documents for well-formed markup.</li>
 	</ul>
-	<h4><a href="http://csslint.net/">CSS Lint</a></h4>
+	<h4><a href="https://jigsaw.w3.org/css-validator/">CSS Validator</a></h4>
 	<ul>
 		<li>Allows Internet users to check CSS documents for errors.</li>
 	</ul>
@@ -63,11 +63,11 @@
 	</ul>
 	<h4><a href="https://pixabay.com/">Pixabay</a></h4>
 	<ul>
-		<li>Resources for royalty free images</li>
+		<li>Resource for royalty free images</li>
 	</ul>
 	<h4><a href="https://flaticon.com/">Flaticon</a></h4>
 	<ul>
-		<li>Resources for royalty free icons</li>
+		<li>Resource for royalty free icons</li>
 	</ul>
 </section>
 <section>
@@ -132,13 +132,15 @@
 <section>
 	<h2>Important Dates</h2>
 	<hr>
-	<p><strong>February 9th</strong></p>
+	<p><strong>September 17th</strong></p>
 	<p>Last day to drop full-semester courses with no record. Last day to register for full-semester courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
-	<p><strong>April 12th</strong></p>
+	<p><strong>November 12th</strong></p>
 	<p>Last day to file withdrawal from the University with “W”s. Last day to withdraw from individual full-semester classes.</p>
-	<p><strong>May 10th</strong></p>
+	<p><strong>November 27th - 29th</strong></p>
+	<p>Fall Recess</p>
+	<p><strong>December 13th</strong></p>
 	<p>Classes ends</p>
-	<p><strong>May 13th - 17th</strong></p>
+	<p><strong>December 16th - 20th</strong></p>
 	<p>Final Exams</p>
 </section>
 <section>
