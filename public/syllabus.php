@@ -132,15 +132,15 @@
 <section>
 	<h2>Important Dates</h2>
 	<hr>
-	<p><strong>Sept. 16th</strong></p>
+	<p><strong>February 6</strong></p>
 	<p>Last day to drop full-semester courses with no record. Last day to register for full-semester courses without deans approval. Last day to change grade basis to/from Satisfactory-Unsatisfactory or Audit. After this date a Change of Registration form with proper signatures is required.</p>
-	<p><strong>Nov. 11th</strong></p>
+	<p><strong>March 16-20</strong></p>
+	<p>Spring Recess</p>
+	<p><strong>April 10</strong></p>
 	<p>Last day to file withdrawal from the University with “W”s. Last day to withdraw from individual full-semester classes.</p>
-	<p><strong>Nov. 26 - 28</strong></p>
-	<p>Fall Recess</p>
-	<p><strong>Dec. 12th</strong></p>
+	<p><strong>May 8</strong></p>
 	<p>Classes ends</p>
-	<p><strong>Dec. 15th - 19th</strong></p>
+	<p><strong>May 11-15</strong></p>
 	<p>Final Exams</p>
 </section>
 <section>
