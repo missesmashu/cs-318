@@ -6,8 +6,8 @@
     <p>In this course we will investigate the design of static web pages. We will use HTML5 and CSS to structure and style content.</p>
     <p>Upon successfully completing this course you will be able to:</p>
 	<ul>
-		<li>Complete the entire process of creating an original website for a client.</li>
-		<li>Become familiar with web design principles and best practices.</li>
+		<li>Complete the entire process of creating an original website for a client including: wireframes, design, and custom HTML and CSS</li>
+		<li>Become familiar with web design principles and best practices through assigned readings and lab work</li>
 		<li>Utilize standard tools for web development.</li>
 		<li>Create web pages that are accessible and maintainable.</li>
 		<li>Use cascading style sheets to stylize content.</li>

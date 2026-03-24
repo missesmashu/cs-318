@@ -108,7 +108,7 @@
 	<?php }?>
 </section>
 <section>
-	<h2 id="i nformation-architecture">Information Architecture</h2>
+	<h2 id="information-architecture">Information Architecture</h2>
 	<hr>
 	<p>Name your file: lastnamefirstinitial-informationarchitecture<p>
 	<p>Analyze and map out the client's information architecture of their future website. The website needs at least 5 individual web pages. You are going to map out what content will go on each page. When I say content I don't mean full paragraphs, just a few words that sufficiently describe the content, like phone number, our story, etc...</p>
@@ -174,7 +174,7 @@
 	<hr>
 	<p>You have now reached the stage before fully designing your clients website, the wireframes. You will use the information architecture and sitemap as reference for your wireframes. The wireframes will have a low level of fidelity. Focus on layout and high-level interactions (navigation and call to action buttons).</p>
 	<p>
-	<h3>The Requirements</h3>
+	<h3>The File Requirements</h3>
 	<p>Submit your files in a zipped folder with the name: lastnamefirstinitial-wireframes<p>
 	<ul>
 		<li>One desktop and mobile wireframe per website page. 10 total wireframes</li>
@@ -183,6 +183,12 @@
 		<li>Utilize arrows and text to describe how interactive elements will function</li>
 		<li>No pictures</li>
 		<li>No content like paragraphs</li>
+	</ul>
+	<h3>The Content Requirements for the Final Client Website</h3>
+	<ul>
+		<li>Minimum of one form somewhere on the website. The form must have at least two inputs and a input submit.</li>
+		<li>Minimum of one CSS animation.</li>
+		<li>Minimum of one CSS transition.</li>
 	</ul>
 	<h3>The Tools</h3>
 	<p>Design the wireframes in Adobe Illustrator, Adobe Photoshop, Adobe InDesign, or Canva.</p>
@@ -208,6 +214,12 @@
 		<li>One desktop and mobile design per website page. 10 total designs</li>
 		<li>Full Color</li>
 		<li>Copy can be lorem ipsum. It is recommended for call to actions, tag lines, short text to use the actual content.</li>
+	</ul>
+	<h3>The Content Requirements for the Final Client Website</h3>
+	<ul>
+		<li>Minimum of one form somewhere on the website. The form must have at least two inputs and a input submit.</li>
+		<li>Minimum of one CSS animation.</li>
+		<li>Minimum of one CSS transition.</li>
 	</ul>
 	<h3>The Recommendations</h3>
 	<ul>
